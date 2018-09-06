@@ -8,7 +8,7 @@ All course materials will be posted or linked to from here.
 
 ## Course notes:
 
-* First meeting, using juliabox.com: [Numerical derivatives](Numerical derivatives.ipynb).
+* First meeting, using juliabox.com: [Numerical derivatives](http://nbviewer.jupyter.org/github/stevengj/18a01/blob/master/Numerical%20derivatives.ipynb)
 
 ## Julia Tutorial (Friday Sep 7, 5pm, location TBA)
 
