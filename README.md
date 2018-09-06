@@ -10,7 +10,7 @@ All course materials will be posted or linked to from here.
 
 * First meeting, using juliabox.com: [Numerical derivatives](http://nbviewer.jupyter.org/github/stevengj/18a01/blob/master/Numerical%20derivatives.ipynb)
 
-## Julia Tutorial (Friday Sep 7, 5pm, location TBA)
+## Julia Tutorial (Friday Sep 7, 5pm, 32-141)
 
 There will be an optional tutorial session for the [Julia](http://julialang.org/) computer language that we will be using in this
 semester.  The tutorial session will be oriented towards beginning students in 18.06 and some other classes that are just using Julia as a "fancy calculator" that happens to have lots of linear algebra and other capabilities, whereas in 18.A01 we will be doing a bit more "real programming."  Bring your laptops, and try logging into [juliabox.com](https://juliabox.com) beforehand.  More information:
